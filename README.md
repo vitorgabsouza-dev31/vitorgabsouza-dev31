@@ -1,6 +1,6 @@
-## Olá! 👋
+Hello! 👋
 
-- 📅 21 anos
-- 🎓 Formado no curso Técnico em Informática pelo Instituto Federal de São Paulo
-- 🖥️ Atualmente desenvolvedor por hobby
-- 🤖 Desenvolvo em HTML, CSS, JavaScript, PHP e MySQL
+- 📅 I'm 21 years old
+- 🎓 Graduated with a Technical degree in Information Technology from the Federal Institute of São Paulo
+- 🖥️ Currently a self-taught programmer
+- 🤖 I develop using HTML, CSS, JavaScript, PHP, and MySQL
