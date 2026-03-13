@@ -1,5 +1,5 @@
-Hello! 👋
+Olá! 👋
 
-- 📅 I'm 21 years old
-- 🎓 Graduated with a Technical degree in Information Technology from the Federal Institute of São Paulo
-- 🖥️ Currently a self-taught programmer focusing on fullstack systems
+- 📅 Eu tenho 21 anos de idade.
+- 🎓 Sou formado no curso Técnico em Informática (TIC) pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP).
+- 🖥️ Atualmente sou um desenvolvedor autodidata e meu foco é em sistemas fullstack.
